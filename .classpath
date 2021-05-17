@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/opkey_function_jar/opkey-pluginbase-v2.0-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/commons-io-2.8.0-bin/commons-io-2.8.0/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/ExportedAddon/aspose-cells-18.11.jar"/>
+	<classpathentry kind="lib" path="E:/ExportedAddon/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Downloads/poi-scratchpad-4.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
